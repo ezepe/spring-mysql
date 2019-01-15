@@ -4,6 +4,7 @@ public class Equipo {
 
 	private int id;
 	private String nombre;
+	
 	public int getId() {
 		return id;
 	}
